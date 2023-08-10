@@ -2,6 +2,7 @@ body {
   margin: 0;
 }
 
+
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -19,6 +20,8 @@ body {
   margin: 0;
   padding-top: 2vh;
   display: flex;
+  background-color: white;
+  color: black;
   flex-direction: column;
   justify-content: center;
   text-align: center;
@@ -98,7 +101,7 @@ button {
   border-style: solid;
   border-color: transparent transparent #2f2f2f transparent;
   position: absolute;
-  top: 0px;
+  top: 0;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -121,3 +124,4 @@ button {
     background-color: #0f0f0f98;
   }
 }
+

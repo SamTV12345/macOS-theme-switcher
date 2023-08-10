@@ -61,9 +61,9 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 400,
+        "height": 500,
         "resizable": false,
-        "title": "menubar",
+        "title": "Mac OS theme switcher",
         "width": 500,
         "visible": false,
         "hiddenTitle": true,
